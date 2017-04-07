@@ -19,3 +19,20 @@ About: This is the official mascot named "Wambhau" for WordCamp Mumbai 2017. Ins
 Announcement link: https://2017.mumbai.wordcamp.org/2017/03/20/meet-wambhau-the-dabbawala-who-will-deliver-wordpress-goodness/
 
 ![This is the official mascot named "Wambhau" for WordCamp Mumbai 2017.](https://raw.githubusercontent.com/ganeshkerkar/wapuu-gk/master/wambhau.png)
+
+=====================
+
+Name: Bapuu Wapuu
+About: This Wapuu is named "Bapuu Wapuu", inspired by Father of the Nation (https://en.wikipedia.org/wiki/Father_of_the_Nation).
+Wapuu Origin: https://wapuu.jp/2015/12/12/wapuu-origins/
+
+![This Wapuu is named "Bapuu Wapuu", inspired by Father of the Nation.](https://raw.githubusercontent.com/ganeshkerkar/wapuu-gk/master/bapuu-wapuu.png)
+
+=====================
+
+Name : r2, the rtCamp Wapuu
+About: This is the official Wapuu named "r2" for rtCamp.
+Wapuu Origin: https://wapuu.jp/2015/12/12/wapuu-origins/
+Follow the link to read more about r2 https://rtcamp.com/blog/the-wapuu-effect-at-rtcamp/
+
+![This is the official Wapuu named "r2" for rtCamp.](https://raw.githubusercontent.com/ganeshkerkar/wapuu-gk/master/r2-wapuu.png)
